@@ -54,290 +54,265 @@ Dima_Impreza
 Dima_Lobach
 Dmitry_Kutuzov
 Domenic_Gotti
-Domingo El Fernandez
-Deandre Cortez
-"Deniska Westley
-(Deniska Skywalker)"
-Dima Khomitsevich
-Domingo Diaz
-Daddy Iniesta
-Dezmond Mailz
-ИМЕНА НА БУКВУ «E»
-"Eden Price
-(Luciano Corleone)"
-Ernie Tich
-"Edvard Flow
-(Edvard Diaz)"
-Elio Colaianni
-Elmar Asadullin
-"Emmerico Suroviy
-(Dato Mikadze)"
-Enrique Rossi
-Enseqzo Mayers
-ИМЕНА НА БУКВУ «F»
-Fabio Mcfly
-Fear Walther 
-Fedor Emeliyanenko
-Felix Cheyz
-Fernuk Insane
-"Fin Aoexe
-(Afina Attacker)"
-"Foma Mackenzi
-(Foma Attacker)"
-Fernando Goglia
-Freddy Wallace
-ИМЕНА НА БУКВУ «G»
-"Georgiy Serbin
-(Frediriko Macknife) "
-Gomer Skillz
-"Graw Galahov
-(Eqviks Undead)"
-Grixa Varai
-ИМЕНА НА БУКВУ «H»
-Hikaru Obi
-Hood Belado
-ИМЕНА НА БУКВУ «I»
-Igor Bench
-Igor Karlandi
-"Igor Schev
-(Kirill Flame)"
-Ill Cezk
-Inrikio Cox
-Ilya Flame
-Ishxan Legeon
-ИМЕНА НА БУКВУ «J»
-Jack Bunny
-Jack Rose
-John  Fiesta
-Jack Wolf
-Jacob Flow
-Jake Angel
-James Negativ
-"Jasson Macknife
-(Brian Lucifetti)"
-Jenya Gun
-Jessus Suicide
-Jesus Flow
-"Jey Quiss
-(Ortix Row)"
-Jherson Hanley
-Jimmy Utaku
-"Jims Woods
-(James MacKenzi)"
-Johan Flix
-John Backer
-John Li
-John Loy
-John Reacher
-Johnny Flow
-Johnny Wild
-Julique Mc Tokio
-ИМЕНА НА БУКВУ «K»
-Kelly Wexlaize
-Kat Duet
-"Kennys Flow
-(Desmond Flow)"
-"Kirich Tufa
-(Kirich Redfield)"
-Kirilka Santiago
-Kirill Chainz
-"Kirill Ermolaev
-(Kerya Gioveze)"
-"Kiryxa Macalister
-(Kiryxa Makedonskiy)"
-Kolya Mc.Tokio
-Kostyan Sergeev
-"Krajm Cheyz
-(Lil Soulja)"
-Krajm Makaveli
-
-Kric Fast
-Kyzt Esco
-ИМЕНА НА БУКВУ «L»
-Leo Fly
-Leo Hard
-Leo Redfield
-Leo Roy
-Leo Trebiani
-Leon Drobot 
-Leon Galkin
-"Leshka Devidson
-(Richi Gaspar)"
-Loc Dog
-Luca Stracci
-Luis Santana
-Logan Anarchy
-Leonid Shalunov
-Leo MacKenzi
-ИМЕНА НА БУКВУ «M»
-Maya Dobraya
-Magic Flow
-Makc Sedko
-Makc Stepanov
-Maks Rapsody
-Maks Elmash
-Maks Makarios
-Maks Korenev
-Maksim Forbes
-Maximiliano Muller
-Marco Vendetta
-Mario Armado
-Mario De Carlletto
-Maka Bro
-"Martinio Flow
-(Joell Flow)"
-Marty Lowrey
-"Masqualle Plomingo
-(Tim Macknife)"
-Matrix Flow
-"Matthew Shakur
-(Matt Shakur)"
-Maxim Kartunov
-Maximillian Miller
-"Mayak Thompson
-(Mayak Waze)"
-Meepo Hamov
-"Mikel Thompson
-(Dewaze Mcjaze)"
-Miras Abyhanov
-Misha Shkepozavr
-Mister Vinchete
-Maxim Zovar
-Montelo Mendes
-ИМЕНА НА БУКВУ «N»
-"Napoleone Gross 
-(Christian)"
-Nastya Bonnet
-Nekit Barboskin
-Nekit Karyakin
-Nekit Mikhaylov
-Nikita Abolmasov
-"Nikus Lanskov
-(Nick Low)"
-ИМЕНА НА БУКВУ «O»
-"Oleg Tsioma
-(Johny Vicious)"
+Domingo_El_Fernandez
+Deandre_Cortez
+Deniska_Westley
+Deniska_Skywalker
+Dima_Khomitsevich
+Domingo_Diaz
+Daddy_Iniesta
+Dezmond_Mailz
+Eden_Price
+Luciano_Corleone
+Ernie_Tich
+Edvard_Flow
+Edvard_Diaz
+Elio_Colaianni
+Elmar_Asadullin
+Emmerico_Suroviy
+Dato_Mikadze
+Enrique_Rossi
+Enseqzo_Mayers
+Fabio_Mcfly
+Fear_Walther 
+Fedor_Emeliyanenko
+Felix_Cheyz
+Fernuk_Insane
+Fin_Aoexe
+Afina_Attacker
+Foma_Mackenzi
+Foma_Attacker
+Fernando_Goglia
+Freddy_Wallace
+Georgiy_Serbin
+Frediriko_Macknife
+Gomer_Skillz
+Graw_Galahov
+Eqviks_Undead
+Grixa_Varai
+Hikaru_Obi
+Hood_Belado
+Igor_Bench
+Igor_Karlandi
+Igor_Schev
+Kirill_Flame
+Ill_Cezk
+Inrikio_Cox
+Ilya_Flame
+Ishxan_Legeon
+Jack_Bunny
+Jack_Rose
+John_Fiesta
+Jack_Wolf
+Jacob_Flow
+Jake_Angel
+James_Negativ
+Jasson_Macknife
+Brian_Lucifetti
+Jenya_Gun
+Jessus_Suicide
+Jesus_Flow
+Jey_Quiss
+Ortix_Row
+Jherson_Hanley
+Jimmy_Utaku
+Jims_Woods
+James_MacKenzi
+Johan_Flix
+John_Backer
+John_Li
+John_Loy
+John_Reacher
+Johnny_Flow
+Johnny_Wild
+Julique_Mc.Tokio
+Kelly_Wexlaize
+Kat_Duet
+Kennys_Flow
+Desmond_Flow
+Kirich_Tufa
+Kirich_Redfield
+Kirilka_Santiago
+Kirill_Chainz
+Kirill_Ermolaev
+Kerya_Gioveze
+Kiryxa_Macalister
+Kiryxa_Makedonskiy
+Kolya_Mc.Tokio
+Kostyan_Sergeev
+Krajm_Cheyz
+Lil_Soulja
+Krajm_Makaveli
+Kric_Fast
+Kyzt_Esco
+Leo_Fly
+Leo_Hard
+Leo_Redfield
+Leo_Roy
+Leo_Trebiani
+Leon_Drobot 
+Leon_Galkin
+Leshka_Devidson
+Richi_Gaspar
+Loc_Dog
+Luca_Stracci
+Luis_Santana
+Logan_Anarchy
+Leonid_Shalunov
+Leo_MacKenzi
+Maya_Dobraya
+Magic_Flow
+Makc_Sedko
+Makc_Stepanov
+Maks_Rapsody
+Maks_Elmash
+Maks_Makarios
+Maks_Korenev
+Maksim_Forbes
+Maximiliano_Muller
+Marco_Vendetta
+Mario_Armado
+Mario_De_Carlletto
+Maka_Bro
+Martinio_Flow
+Joell_Flow
+Marty_Lowrey
+Masqualle_Plomingo
+Tim_Macknife
+Matrix_Flow
+Matthew_Shakur
+Matt_Shakur
+Maxim_Kartunov
+Maximillian_Miller
+Mayak_Thompson
+Mayak_Waze
+Meepo_Hamov
+Mikel_Thompson
+Dewaze_Mcjaze
+Miras_Abyhanov
+Misha_Shkepozavr
+Mister_Vinchete
+Maxim_Zovar
+Montelo_Mendes
+Cesc_Gross
+Nastya_Bonnet
+Nekit_Barboskin
+Nekit_Karyakin
+Nekit_Mikhaylov
+Nikita_Abolmasov
+Nikus_Lanskov
+Nick_Low
+Oleg_Tsioma
+Johny_Vicious
 Owleen_Sjeaz
-ИМЕНА НА БУКВУ «P»
-Patrick Jordon
-"Patrik Dolmatov
-(Patt Undead)"
-"Patrik Vinsloy
-(Leo Yanuchi)"
-Pavel Boo
-Pietro Mongano
-Paganes Coross
-Polina Queen
-ИМЕНА НА БУКВУ «Q»
-"Qoq One
-(Qoq Cash)"
-Quinton Paris
-ИМЕНА НА БУКВУ «R»
-Rakim Rocky
-"Ralph Shockley
-(Bobo Hatler)"
-Raymond Alpert
-"Renat Boyarow
-(Rinat Greenwalt)"
-Reventon East
-Richard Boo
-Richard Long
-Rolf Audley
-Roman Godunko
-Roman Choma
-Ronald Corleone
-Rowan Atkinson
-"Ruslan Santiago
-(Ruslan Chernomorets)"
-Relays Metternix
-Ruslan Tkachenko
-Roberto Devosse
-ИМЕНА НА БУКВУ «S»
-Sadaam Hoseyn
-Samuel Mackelly
-Samuelka Price
-"Sanek Lenin
-(Oleksandr Yarema)"
-Santiago Beast
-"Santz Cezk
-(Steven Petuskov)"
-Sasha Makarov
-Sasha Slash
-Sasha Bayr
-Sayz Diaz
-"Serega Makcfel 
-(Gutter Brothers)"
-Serega Raser
-Sergei Tushin
-Sergey Suroviy
-"Sergio Person 
-(Delsin Paganini)"
-Sergio Ramos
-Shade Suicide
-Shazy Flacko
-"Shoop Tomares 
-(Quentin Knight)"
-"Slava Krit 
-(Slava Birs)"
-Slava Randlman
-Sqweezy Torrio
-Stepa Snetkov
-Steve Coleman
-Sun Grek
-Svyatoslav Voloshko
-Suicide Lacartez
-Slava Rodriguez
-Santino Andolini
-Shock Infinity
-Satoshi Hirusawa
-ИМЕНА НА БУКВУ «T»
-Thor Mattews
-Tom Reyes
-Takumi Kanburi
-Tenp Cize
-Tomas  Mrvz
-Tim Parker
-Tofik Torres
-Tolik Gold
-Tommy Tomares
-Trevor Jovanny
-Trick Supremes
-Tricky Makaveli
-Twink James
-Twisty Cruger
-ИМЕНА НА БУКВУ «U»
-
-ИМЕНА НА БУКВУ «V»
-"Vadik Loyko
-(Vadik Davidson)"
-"Vlad Neymar
-(Travis Dolla)"
-Vadim Zaxarov
-Valerio Reyes
-Vasiliy Blakston
-Vaas Montenegro
-Vildan Valiullin
-Vince Masuka
-Vitalya Smith
-Vitya Alter
-Vlad Romanov
-Vlad Valyuhov
-Vladik Shakriev
-Vladimir Saraev
-Vladon Shafran
-Vyacheslav Kutuzov
-Vova Gado
-ИМЕНА НА БУКВУ «W»
-Williams Challenger
-Willy Mackelly
-Wuzi Saionji
-ИМЕНА НА БУКВУ «X»
-Xavier Young
-ИМЕНА НА БУКВУ «Y»
-Yaroslav Constantine
-Yaroslav Compton
-Yaroslav GonZalez
-Yoshiro Okamoto
-Yura Dutchak
-ИМЕНА НА БУКВУ «Z»
-Zlatan Suroviy
+Patrick_Jordon
+Patrik_Dolmatov
+Patt_Undead
+Patrik_Vinsloy
+Leo_Yanuchi
+Pavel_Boo
+Pietro_Mongano
+Paganes_Coross
+Polina_Queen
+Qoq_One
+Qoq_Cash
+Quinton_Paris
+Rakim_Rocky
+Ralph_Shockley
+Bobo_Hatler
+Raymond_Alpert
+Renat_Boyarow
+Rinat_Greenwalt
+Reventon_East
+Richard_Boo
+Richard_Long
+Rolf_Audley
+Roman_Godunko
+Roman_Choma
+Ronald_Corleone
+Rowan_Atkinson
+Ruslan_Santiago
+Ruslan_Chernomorets
+Relays_Metternix
+Ruslan_Tkachenko
+Roberto_Devosse
+Sadaam_Hoseyn
+Samuel_Mackelly
+Samuelka_Price
+Sanek_Lenin
+Oleksandr_Yarema
+Santiago_Beast
+Santz_Cezk
+Steven_Petuskov
+Sasha_Makarov
+Sasha_Slash
+Sasha_Bayr
+Sayz_Diaz
+Serega_Makcfel 
+Gutter_Brothers
+Serega_Raser
+Sergei_Tushin
+Sergey_Suroviy
+Sergio_Person 
+Delsin_Paganini
+Sergio_Ramos
+Shade_Suicide
+Shazy_Flacko
+Shoop_Tomares 
+Quentin_Knight
+Slava_Krit 
+Slava_Birs
+Slava_Randlman
+Sqweezy_Torrio
+Stepa_Snetkov
+Steve_Coleman
+Sun_Grek
+Svyatoslav_Voloshko
+Suicide_Lacartez
+Slava_Rodriguez
+Santino_Andolini
+Shock_Infinity
+Satoshi_Hirusawa
+Thor_Mattews
+Tom_Reyes
+Takumi_Kanburi
+Tenp_Cize
+Tomas_Mrvz
+Tim_Parker
+Tofik_Torres
+Tolik_Gold
+Tommy_Tomares
+Trevor_Jovanny
+Trick_Supremes
+Tricky_Makaveli
+Twink_James
+Twisty_Cruger
+Vadik_Loyko
+Vadik_Davidson
+Vlad_Neymar
+Travis_Dolla
+Vadim_Zaxarov
+Valerio_Reyes
+Vasiliy_Blakston
+Vaas_Montenegro
+Vildan_Valiullin
+Vince_Masuka
+Vitalya_Smith
+Vitya_Alter
+Vlad_Romanov
+Vlad_Valyuhov
+Vladik_Shakriev
+Vladimir_Saraev
+Vladon_Shafran
+Vyacheslav_Kutuzov
+Vova_Gado
+Williams_Challenger
+Willy_Mackelly
+Wuzi_Saionji
+Xavier_Young
+Yaroslav_Constantine
+Yaroslav_Compton
+Yaroslav_GonZalez
+Yoshiro_Okamoto
+Yura_Dutchak
+Zlatan_Suroviy
